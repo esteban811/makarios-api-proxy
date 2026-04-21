@@ -1,0 +1,9 @@
+{
+  "name": "makarios-api-proxy",
+  "version": "1.0.0",
+  "description": "Secure API proxy for Makarios Marketing AI tools",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
